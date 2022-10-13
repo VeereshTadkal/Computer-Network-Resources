@@ -40,7 +40,7 @@ Router is a networking device which is used to connect two or more networks.
 </details>
 
 <details>
-<summary>What is a Switch</summary>
+<summary>What is a Switch?</summary>
 
 Switch is a device which is used to connect two or more hosts.
 </br>
